@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\bin\Debug\TmerGC.exe.config
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\bin\Debug\TmerGC.exe
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\bin\Debug\TmerGC.pdb
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\obj\Debug\TmerGC.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\obj\Debug\TmerGC.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\obj\Debug\TmerGC.exe
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\obj\Debug\TmerGC.pdb

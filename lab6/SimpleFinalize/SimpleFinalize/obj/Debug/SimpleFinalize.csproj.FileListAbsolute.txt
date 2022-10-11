@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.exe.config
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.exe
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.pdb
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.exe
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.pdb

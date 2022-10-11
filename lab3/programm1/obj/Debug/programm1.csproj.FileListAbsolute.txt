@@ -1,0 +1,6 @@
+C:\Users\nykza\Desktop\dotNET\lab3\programm1\bin\Debug\programm1.dll
+C:\Users\nykza\Desktop\dotNET\lab3\programm1\bin\Debug\programm1.pdb
+C:\Users\nykza\Desktop\dotNET\lab3\programm1\obj\Debug\programm1.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab3\programm1\obj\Debug\programm1.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab3\programm1\obj\Debug\programm1.dll
+C:\Users\nykza\Desktop\dotNET\lab3\programm1\obj\Debug\programm1.pdb

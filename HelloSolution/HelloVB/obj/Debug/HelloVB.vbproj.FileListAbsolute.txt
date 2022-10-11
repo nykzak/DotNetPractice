@@ -1,0 +1,13 @@
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\bin\Debug\HelloVB.dll
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\bin\Debug\HelloVB.pdb
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\bin\Debug\HelloVB.xml
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\bin\Debug\HelloCPP.dll
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\bin\Debug\HelloCPP.pdb
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\obj\Debug\HelloVB.vbprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\obj\Debug\HelloVB.Resources.resources
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\obj\Debug\HelloVB.vbproj.GenerateResource.cache
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\obj\Debug\HelloVB.vbproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\obj\Debug\HelloVB.vbproj.CopyComplete
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\obj\Debug\HelloVB.dll
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\obj\Debug\HelloVB.xml
+C:\Users\nykza\Desktop\dotNET\HelloSolution\HelloVB\obj\Debug\HelloVB.pdb

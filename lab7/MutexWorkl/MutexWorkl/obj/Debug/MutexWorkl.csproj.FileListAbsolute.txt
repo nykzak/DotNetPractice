@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\lab7\MutexWorkl\MutexWorkl\bin\Debug\MutexWorkl.exe.config
+C:\Users\nykza\Desktop\dotNET\lab7\MutexWorkl\MutexWorkl\bin\Debug\MutexWorkl.exe
+C:\Users\nykza\Desktop\dotNET\lab7\MutexWorkl\MutexWorkl\bin\Debug\MutexWorkl.pdb
+C:\Users\nykza\Desktop\dotNET\lab7\MutexWorkl\MutexWorkl\obj\Debug\MutexWorkl.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab7\MutexWorkl\MutexWorkl\obj\Debug\MutexWorkl.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab7\MutexWorkl\MutexWorkl\obj\Debug\MutexWorkl.exe
+C:\Users\nykza\Desktop\dotNET\lab7\MutexWorkl\MutexWorkl\obj\Debug\MutexWorkl.pdb

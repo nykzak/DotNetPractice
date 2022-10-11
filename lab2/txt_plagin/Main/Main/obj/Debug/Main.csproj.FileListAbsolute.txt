@@ -1,0 +1,10 @@
+C:\Users\nykza\Desktop\dotNET\Main\Main\bin\Debug\Main.exe.config
+C:\Users\nykza\Desktop\dotNET\Main\Main\bin\Debug\Main.exe
+C:\Users\nykza\Desktop\dotNET\Main\Main\bin\Debug\Main.pdb
+C:\Users\nykza\Desktop\dotNET\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\Main\Main\obj\Debug\Main.Form1.resources
+C:\Users\nykza\Desktop\dotNET\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\nykza\Desktop\dotNET\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\nykza\Desktop\dotNET\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\Main\Main\obj\Debug\Main.exe
+C:\Users\nykza\Desktop\dotNET\Main\Main\obj\Debug\Main.pdb

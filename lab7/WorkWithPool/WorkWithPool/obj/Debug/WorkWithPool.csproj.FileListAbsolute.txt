@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\lab7\WorkWithPool\WorkWithPool\bin\Debug\WorkWithPool.exe.config
+C:\Users\nykza\Desktop\dotNET\lab7\WorkWithPool\WorkWithPool\bin\Debug\WorkWithPool.exe
+C:\Users\nykza\Desktop\dotNET\lab7\WorkWithPool\WorkWithPool\bin\Debug\WorkWithPool.pdb
+C:\Users\nykza\Desktop\dotNET\lab7\WorkWithPool\WorkWithPool\obj\Debug\WorkWithPool.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab7\WorkWithPool\WorkWithPool\obj\Debug\WorkWithPool.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab7\WorkWithPool\WorkWithPool\obj\Debug\WorkWithPool.exe
+C:\Users\nykza\Desktop\dotNET\lab7\WorkWithPool\WorkWithPool\obj\Debug\WorkWithPool.pdb

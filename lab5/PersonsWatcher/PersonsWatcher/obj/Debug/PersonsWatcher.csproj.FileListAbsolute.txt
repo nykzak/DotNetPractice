@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\lab5\PersonsWatcher\PersonsWatcher\bin\Debug\PersonsWatcher.exe.config
+C:\Users\nykza\Desktop\dotNET\lab5\PersonsWatcher\PersonsWatcher\bin\Debug\PersonsWatcher.exe
+C:\Users\nykza\Desktop\dotNET\lab5\PersonsWatcher\PersonsWatcher\bin\Debug\PersonsWatcher.pdb
+C:\Users\nykza\Desktop\dotNET\lab5\PersonsWatcher\PersonsWatcher\obj\Debug\PersonsWatcher.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab5\PersonsWatcher\PersonsWatcher\obj\Debug\PersonsWatcher.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab5\PersonsWatcher\PersonsWatcher\obj\Debug\PersonsWatcher.exe
+C:\Users\nykza\Desktop\dotNET\lab5\PersonsWatcher\PersonsWatcher\obj\Debug\PersonsWatcher.pdb

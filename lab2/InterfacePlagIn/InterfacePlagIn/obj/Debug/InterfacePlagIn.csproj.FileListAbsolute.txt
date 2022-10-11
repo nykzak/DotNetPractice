@@ -1,0 +1,6 @@
+C:\Users\nykza\Desktop\dotNET\InterfacePlagIn\InterfacePlagIn\bin\Debug\InterfacePlagIn.dll
+C:\Users\nykza\Desktop\dotNET\InterfacePlagIn\InterfacePlagIn\bin\Debug\InterfacePlagIn.pdb
+C:\Users\nykza\Desktop\dotNET\InterfacePlagIn\InterfacePlagIn\obj\Debug\InterfacePlagIn.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\InterfacePlagIn\InterfacePlagIn\obj\Debug\InterfacePlagIn.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\InterfacePlagIn\InterfacePlagIn\obj\Debug\InterfacePlagIn.dll
+C:\Users\nykza\Desktop\dotNET\InterfacePlagIn\InterfacePlagIn\obj\Debug\InterfacePlagIn.pdb

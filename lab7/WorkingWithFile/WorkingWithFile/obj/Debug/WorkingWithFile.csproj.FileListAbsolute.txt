@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\lab7\WorkingWithFile\WorkingWithFile\bin\Debug\WorkingWithFile.exe.config
+C:\Users\nykza\Desktop\dotNET\lab7\WorkingWithFile\WorkingWithFile\bin\Debug\WorkingWithFile.exe
+C:\Users\nykza\Desktop\dotNET\lab7\WorkingWithFile\WorkingWithFile\bin\Debug\WorkingWithFile.pdb
+C:\Users\nykza\Desktop\dotNET\lab7\WorkingWithFile\WorkingWithFile\obj\Debug\WorkingWithFile.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab7\WorkingWithFile\WorkingWithFile\obj\Debug\WorkingWithFile.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab7\WorkingWithFile\WorkingWithFile\obj\Debug\WorkingWithFile.exe
+C:\Users\nykza\Desktop\dotNET\lab7\WorkingWithFile\WorkingWithFile\obj\Debug\WorkingWithFile.pdb

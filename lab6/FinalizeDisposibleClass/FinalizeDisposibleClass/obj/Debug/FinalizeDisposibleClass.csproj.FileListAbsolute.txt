@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\lab6\FinalizeDisposibleClass\FinalizeDisposibleClass\bin\Debug\FinalizeDisposibleClass.exe.config
+C:\Users\nykza\Desktop\dotNET\lab6\FinalizeDisposibleClass\FinalizeDisposibleClass\bin\Debug\FinalizeDisposibleClass.exe
+C:\Users\nykza\Desktop\dotNET\lab6\FinalizeDisposibleClass\FinalizeDisposibleClass\bin\Debug\FinalizeDisposibleClass.pdb
+C:\Users\nykza\Desktop\dotNET\lab6\FinalizeDisposibleClass\FinalizeDisposibleClass\obj\Debug\FinalizeDisposibleClass.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab6\FinalizeDisposibleClass\FinalizeDisposibleClass\obj\Debug\FinalizeDisposibleClass.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab6\FinalizeDisposibleClass\FinalizeDisposibleClass\obj\Debug\FinalizeDisposibleClass.exe
+C:\Users\nykza\Desktop\dotNET\lab6\FinalizeDisposibleClass\FinalizeDisposibleClass\obj\Debug\FinalizeDisposibleClass.pdb

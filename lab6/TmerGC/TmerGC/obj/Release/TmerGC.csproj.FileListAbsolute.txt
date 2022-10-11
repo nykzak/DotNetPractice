@@ -1,0 +1,6 @@
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\bin\Release\TmerGC.exe.config
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\bin\Release\TmerGC.exe
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\bin\Release\TmerGC.pdb
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\obj\Release\TmerGC.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\obj\Release\TmerGC.exe
+C:\Users\nykza\Desktop\dotNET\lab6\TmerGC\TmerGC\obj\Release\TmerGC.pdb

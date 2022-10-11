@@ -1,0 +1,14 @@
+C:\Users\nykza\Desktop\dotNET\lab8\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\nykza\Desktop\dotNET\lab8\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\nykza\Desktop\dotNET\lab8\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\nykza\Desktop\dotNET\lab8\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab8\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\nykza\Desktop\dotNET\lab8\lab8\lab8\obj\Debug\lab8.pdb
+E:\dotNET\lab8\lab8\lab8\bin\Debug\lab8.exe.config
+E:\dotNET\lab8\lab8\lab8\bin\Debug\lab8.exe
+E:\dotNET\lab8\lab8\lab8\bin\Debug\lab8.pdb
+E:\dotNET\lab8\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+E:\dotNET\lab8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+E:\dotNET\lab8\lab8\lab8\obj\Debug\lab8.exe
+E:\dotNET\lab8\lab8\lab8\obj\Debug\lab8.pdb

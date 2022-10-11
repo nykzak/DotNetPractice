@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\lab6\Generation_GC\Generation_GC\bin\Debug\Generation_GC.exe.config
+C:\Users\nykza\Desktop\dotNET\lab6\Generation_GC\Generation_GC\bin\Debug\Generation_GC.exe
+C:\Users\nykza\Desktop\dotNET\lab6\Generation_GC\Generation_GC\bin\Debug\Generation_GC.pdb
+C:\Users\nykza\Desktop\dotNET\lab6\Generation_GC\Generation_GC\obj\Debug\Generation_GC.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab6\Generation_GC\Generation_GC\obj\Debug\Generation_GC.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab6\Generation_GC\Generation_GC\obj\Debug\Generation_GC.exe
+C:\Users\nykza\Desktop\dotNET\lab6\Generation_GC\Generation_GC\obj\Debug\Generation_GC.pdb

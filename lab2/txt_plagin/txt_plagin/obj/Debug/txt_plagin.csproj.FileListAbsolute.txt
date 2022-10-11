@@ -1,0 +1,9 @@
+C:\Users\nykza\Desktop\dotNET\txt_plagin\txt_plagin\bin\Debug\txt_plagin.dll
+C:\Users\nykza\Desktop\dotNET\txt_plagin\txt_plagin\bin\Debug\txt_plagin.pdb
+C:\Users\nykza\Desktop\dotNET\txt_plagin\txt_plagin\bin\Debug\InterfacePlagIn.dll
+C:\Users\nykza\Desktop\dotNET\txt_plagin\txt_plagin\bin\Debug\InterfacePlagIn.pdb
+C:\Users\nykza\Desktop\dotNET\txt_plagin\txt_plagin\obj\Debug\txt_plagin.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\txt_plagin\txt_plagin\obj\Debug\txt_plagin.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\txt_plagin\txt_plagin\obj\Debug\txt_plagin.csproj.CopyComplete
+C:\Users\nykza\Desktop\dotNET\txt_plagin\txt_plagin\obj\Debug\txt_plagin.dll
+C:\Users\nykza\Desktop\dotNET\txt_plagin\txt_plagin\obj\Debug\txt_plagin.pdb

@@ -1,0 +1,6 @@
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\bin\Release\SimpleFinalize.exe.config
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\bin\Release\SimpleFinalize.exe
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\bin\Release\SimpleFinalize.pdb
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\obj\Release\SimpleFinalize.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\obj\Release\SimpleFinalize.exe
+C:\Users\nykza\Desktop\dotNET\lab6\SimpleFinalize\SimpleFinalize\obj\Release\SimpleFinalize.pdb

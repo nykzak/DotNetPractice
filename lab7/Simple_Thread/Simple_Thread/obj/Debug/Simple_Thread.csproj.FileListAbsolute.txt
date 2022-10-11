@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\lab7\Simple_Thread\Simple_Thread\bin\Debug\Simple_Thread.exe.config
+C:\Users\nykza\Desktop\dotNET\lab7\Simple_Thread\Simple_Thread\bin\Debug\Simple_Thread.exe
+C:\Users\nykza\Desktop\dotNET\lab7\Simple_Thread\Simple_Thread\bin\Debug\Simple_Thread.pdb
+C:\Users\nykza\Desktop\dotNET\lab7\Simple_Thread\Simple_Thread\obj\Debug\Simple_Thread.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab7\Simple_Thread\Simple_Thread\obj\Debug\Simple_Thread.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab7\Simple_Thread\Simple_Thread\obj\Debug\Simple_Thread.exe
+C:\Users\nykza\Desktop\dotNET\lab7\Simple_Thread\Simple_Thread\obj\Debug\Simple_Thread.pdb

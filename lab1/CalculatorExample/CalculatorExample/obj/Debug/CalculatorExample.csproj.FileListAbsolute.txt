@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.exe.config
+C:\Users\nykza\Desktop\dotNET\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.exe
+C:\Users\nykza\Desktop\dotNET\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.pdb
+C:\Users\nykza\Desktop\dotNET\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.exe
+C:\Users\nykza\Desktop\dotNET\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.pdb

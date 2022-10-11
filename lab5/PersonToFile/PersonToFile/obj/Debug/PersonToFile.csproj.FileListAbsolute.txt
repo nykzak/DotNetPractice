@@ -1,0 +1,7 @@
+C:\Users\nykza\Desktop\dotNET\lab5\PersonToFile\PersonToFile\bin\Debug\PersonToFile.exe.config
+C:\Users\nykza\Desktop\dotNET\lab5\PersonToFile\PersonToFile\bin\Debug\PersonToFile.exe
+C:\Users\nykza\Desktop\dotNET\lab5\PersonToFile\PersonToFile\bin\Debug\PersonToFile.pdb
+C:\Users\nykza\Desktop\dotNET\lab5\PersonToFile\PersonToFile\obj\Debug\PersonToFile.csprojAssemblyReference.cache
+C:\Users\nykza\Desktop\dotNET\lab5\PersonToFile\PersonToFile\obj\Debug\PersonToFile.csproj.CoreCompileInputs.cache
+C:\Users\nykza\Desktop\dotNET\lab5\PersonToFile\PersonToFile\obj\Debug\PersonToFile.exe
+C:\Users\nykza\Desktop\dotNET\lab5\PersonToFile\PersonToFile\obj\Debug\PersonToFile.pdb
